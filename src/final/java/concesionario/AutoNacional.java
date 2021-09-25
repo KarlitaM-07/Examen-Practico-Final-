@@ -9,6 +9,10 @@ public class AutoNacional {
 	private String kilometraje;
 	
 	
+	public AutoNacional(String string) {
+		// TODO Auto-generated constructor stub
+		
+	}
 	public String getMarca() {
 		return marca;
 	}
