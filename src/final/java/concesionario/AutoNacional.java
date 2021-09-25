@@ -8,6 +8,7 @@ public class AutoNacional {
 	private String placa;
 	private String kilometraje;
 	
+	
 	public String getMarca() {
 		return marca;
 	}
